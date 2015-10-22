@@ -12,3 +12,8 @@ helloworld.rb(main):002:0>
 Si lo ejecutamos con ruby helloword.rb aparece:
 
 Hola Mundo
+
+Si lo ejecutamos con pry nos da el mismo resultado al ejecutarlo con ruby
+
+Hello world
+=> nil

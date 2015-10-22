@@ -1,0 +1,3 @@
+Respuestas
+
+RVM permite tener distintas versiones de Ruby y poder trabajar con la que se quiera.
